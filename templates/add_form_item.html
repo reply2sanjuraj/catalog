@@ -1,0 +1,27 @@
+{% include "header.html" %}
+
+<div class="center-div">
+	<div class="description-container">
+
+		<h2> Add Item </h2>
+		<form action= "{{url_for('add_item')}}" method = 'POST'>
+
+			<p>Name</p>
+			<input type = 'text' size='30' name = 'name' required>
+
+			<p>Description</p>
+			<input type = 'text' size='250' style= "height: 200px; width: 600px" name = 'description' required>
+
+			<p>Category</p>
+			<select name = 'category' required>
+				{% for category in cat_list %}
+				<option value='{{category}}'>{{category}}</option>
+				{% endfor %}
+			</select>
+
+			<br> <br>
+
+			<input type='submit' value='Add'>
+		</form>
+	</div>
+</div>

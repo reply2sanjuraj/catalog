@@ -1,0 +1,20 @@
+{% include "header.html" %}
+<body>
+
+	<div class="center-div">
+		<div class="grid-container">
+			<div class="Sidebar">
+				<h3> Categories </h3>
+				{% for category in all_categories %}
+				<a href="/catalog/{{category.name}}"><h6>{{(category.name).title()}}</h6></a>
+				{% endfor %}
+			</div>
+
+			<div class="Data-Panel">
+				<h3> {{category.title()}} Items </h3>
+				{% for item in items %}
+				<a href="/catalog/{{(item.category).name}}/{{item.name}}"><h6>{{(item.name).title()}}</h6></a>
+				{% endfor %}
+			</div>
+		</div>
+	</div>

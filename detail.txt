@@ -1,0 +1,20 @@
+Client ID	
+242952906926-u22ufonet48ku1seu6lbg7uv32r16d5d.apps.googleusercontent.com
+Client secret	
+Wy98g-yF6SVEZuzy17iiyWl3
+Creation date	
+Jan 23, 2019, 11:32:53 PM
+
+
+
+891861520305-h6tenpgjuflse0cknqqddo3f35fmv5bq.apps.googleusercontent.com
+
+QWilmAf1xFIhrrDcHI1lpM6L
+
+
+Client ID	
+891861520305-h6tenpgjuflse0cknqqddo3f35fmv5bq.apps.googleusercontent.com
+Client secret	
+QWilmAf1xFIhrrDcHI1lpM6L
+Creation date	
+6 Feb 2019, 01:55:43

@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Jersey",
+    "description": "Worn by the Professional Players.",
+    "category": "Soccer"
+  },
+  {
+    "name": "FootBall Tables",
+    "description": "Table used to kick a ball into the opposing goal with the hlp of rotating bars.",
+    "category": "Foosball"
+  },
+  {
+    "name": "Stick",
+    "description": "Stick used to move the ball or puck around.",
+    "category": "Hockey"
+  },
+  {
+    "name": "Disc",
+    "description": "Gliding toy used recreationally and competittively for throwing and catching.",
+    "category": "Frisbee"
+  },
+  {
+    "name": "Basketball",
+    "description": "A thick ball that is bounced, passed with the objective of shooting in through the defender's hoop.",
+    "category": "Basketball"
+  },
+  {
+    "name": "Glove",
+    "description": "Used as an aid in catching and holding onto the ball.",
+    "category": "Baseball"
+  },
+  {
+    "name": "Snowboard",
+    "description": "Ski-like hardshell boot and plate binding system with a true directional snowboard that is stiffer and narrower to manage linking turns with greater forces and speed.",
+    "category": "Snowboarding"
+  },
+  {
+    "name": "Harness",
+    "description": "The vest that a rock-climber wears to attach himself to safety wire.",
+    "category": "Rock Climbing"
+  },
+  {
+    "name": "Shinguards",
+    "description": "Built and designed around molds of actual legs.",
+    "category": "Soccer"
+  },
+  {
+  	"name": "Roller Skates",
+  	"description": "Roller skates are shoes, or bindings that fit onto shoes, that are worn to enable the wearer to roll along on wheels.",
+  	"category": "Skating"
+  }
+]
